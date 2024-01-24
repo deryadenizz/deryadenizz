@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derya Deniz.</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands.</h3>
 
-- 🌱 I’m currently learning **JS, React, C**
+- 🌱 I’m currently learning **JS, React, Angular, C**
 
 - 👨‍💻 All of my projects are available at [https://deryadeniz.netlify.app/](https://deryadeniz.netlify.app/)
 
